@@ -1,3 +1,4 @@
+![logo](https://github.com/ansh4o/ansh4o/blob/main/logo.gif)
 <h1 align="center">Hello guys👋, I'm Ansh Vaghela</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif">
